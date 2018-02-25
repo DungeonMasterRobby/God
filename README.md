@@ -1,9 +1,14 @@
 # God Campaign
 
 These are the datails on the God campaign. All Players that want to use this as a resource only look
-in to folder marked "player" or the README.
+in to folder marked "player" or the README. 
 
 # Creacter Creation Rules
+Each character is a god from the great number of multiverses. The 
+character remember his past life when he wasnt a god. This past life can be from any era or time period and can impact thier personality 
+so have fun.
+
+
 * You build your race with 70 Racial Point.
 * 25 point ability build in
 * level 20
@@ -42,5 +47,4 @@ in to folder marked "player" or the README.
 
 
  If the god name has a ( ) after it that mean that the god is split into multiple beings with each being having its own name.
-When you guys get your gods made i will add them to the list. Each character is a god from the great number of multiverses. The 
-character remember his past life when he wasnt a god. This past life can be from any era or time period and can impact thier personality so have fun. 
+When you guys get your gods made i will add them to the list. 
