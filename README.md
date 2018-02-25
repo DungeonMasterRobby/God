@@ -5,13 +5,13 @@ in to folder marked "player" or the README.
 
 # Creacter Creation Rules
 * You build your race with 70 Racial Point.
-..* 25 point ability build in
-..* level 20
-..* 880,000 gold
-..* Mythic Tier 5
-..* Mythic ability "Divine Source" for free
-..* All Pathfinder rules are allowed
-3.5 rules must be cleared by me
+* 25 point ability build in
+* level 20
+* 880,000 gold
+* Mythic Tier 5
+* Mythic ability "Divine Source" for free
+* All Pathfinder rules are allowed
+--3.5 rules must be cleared by me
 
 # Inheritence rules.
 This campaign will be set at least 1000 years after the last god campaign. There is a new balanced god hierarchy.
