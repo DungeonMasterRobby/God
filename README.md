@@ -4,7 +4,7 @@ These are the datails on the God campaign. All Players that want to use this as 
 in to folder marked "player" or the README.
 
 # Creacter Creation Rules
-..* You build your race with 70 Racial Point.
+* You build your race with 70 Racial Point.
 ..* 25 point ability build in
 ..* level 20
 ..* 880,000 gold
