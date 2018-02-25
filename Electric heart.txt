@@ -1,0 +1,43 @@
+eletric heart
+
+outsider[air](3)
+-darkvision 60
+medium/small(0)
+normal speed(0)
+advanced(4)
+- +2 phy +4 wis -2 cha
+standard language(0)
+
+advanced dex(4)
+- +2 dex
+
+defensive training, greater(4)
+- +2 dodge
+natural armor(2)
+- +2 AC
+
+nimble attacks(2)
+-weapon finesse for free
+
+fast(3)
+- +20 feet [stackable]
+Frightful gaze(6)
+ Creatures within 30 feet of a member of this race that meet its gaze must succeed at a Will saving throw 
+(DC 10 + the 1/2 user's character level + the user's Charisma modifier) 
+or stand paralyzed in fear for 1 round. This is a mind-affecting fear effect. 
+A target that successfully saves cannot be affected by the user's frightful gaze for 24 hours.
+Elemental weapons(6)
+-1d6 electric
+
+medium creature
+dark vision 60 feet
++2 str +4 dex +2 con +4 wis -2 cha
+50 foot movement speed
++2 natural armor
++2 dodge
+weapon finesse
+1d6 electric damage with attacks with natural weapons
+fraightful gaze
+-DC(10 + level/2 + cha)
+-paralyzed for one round
+
