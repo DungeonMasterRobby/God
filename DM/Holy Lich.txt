@@ -1,0 +1,66 @@
+Race: Holy Lich
+RP: 35
+
+undead(16)--
+medium(0)--
+advanced(4)-- +2 phy +4 cha -2 wis
+standard languages(0)--
+advanced strength(4)--
+
+lucky lesser/greater(3) +3 to all saving throws
+fast healing(6) heal 1 hit point per round
+natural armor(1) +1 to AC
+
+flexible bonus feat (4)
+skill bonus(2) 1 skill +2/2 skill +1 
+skilled(4) extra skill point per level
+quick reactions(2) improved initiative
+
+constant divination(3) detect secret doors
+spell-like, at-will(spell level*2)-need spell
+
+fast(3) +20 movement speed
+flight(4) two extra 2 increase by 10 feet and maneuverability
+
+toxic(1) #cha per day|swift action application|paralytic venom
+weapon familiarity(1)-use two weapons
+
+see in darkness(4) see in all darkness regardless of deepness
+blindsense(4) 
+
+
+undead-16
+medium-0
+advanced-4
+stan lang-0
+adv str-4
+lucky-3
+nat arm-3
+fast-3
+toxic-1
+
+
+Holy Lich
+medium creature
+5 foot reach
+50 foot movement
++4 str +2 dex -2 wis +4 cha
++3 to all saving throws
+thick skin +2 AC
+can apply paralytic venom as a swift action with saliva
+	number of times equal to cha mod, and it does 1d2 dex damge per round for 6 rounds. save DC(10 + level/2 + cha). making one save stops the venom.
+No Constitution score. Undead use their Charisma score in place of their Constitution score when calculating hit points, 
+	Fortitude saves, and any special ability that relies on Constitution(such as when calculating a breath weapon’s DC).
+Darkvision 60 feet.
+Immunity to all mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms).
+Immunity to bleed, death effects, disease, paralysis, poison, sleep effects, and stunning.
+Not subject to nonlethal damage, ability drain, or energy drain. 
+Immune to damage to its physical ability scores (Constitution, Dexterity, and Strength), as well as to exhaustion and fatigue effects.
+Cannot heal damage on its own if it has no Intelligence score, although it can be healed. 
+Negative energy (such as an inflict spell) can heal undead creatures.
+Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
+Not at risk of death from massive damage, but is immediately destroyed when reduced to 0 hit points.
+Not affected by raise dead and reincarnate spells or abilities. 
+Resurrection and true resurrection can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
+Undead do not breathe, eat, or sleep.
+
