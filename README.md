@@ -14,9 +14,9 @@ in to folder marked "player" or the README.
 
 # Inheritence rules.
 
-⋅⋅⋅Each gods body is forged by a parent god. Each parent give a passive buff to the character. Each parent can only be chosen once so 
-if you want to lay claim to a particular god claim them fast. The powers of the older gods are more powerful on purpose as they are older 
-and more experienced. "--->" means the god has been chosen and can not be selected as a parent god.
+   Each gods body is forged by a parent god. Each parent give a passive buff to the character. Each parent can only be chosen once so 
+   if you want to lay claim to a particular god claim them fast. The powers of the older gods are more powerful on purpose as they are
+   older and more experienced. "--->" means the god has been chosen and can not be selected as a parent god.
 
 | GOD CLASS	| GOD NAME			| PLAYER	                 | PARENT BONUS |
 | ------------- |:-----------------------------:|:------------------------------:|:-------------------------------:|
