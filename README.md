@@ -14,8 +14,6 @@ This campaign will be set at least 1000 years after the last god campaign. There
 | Adonia	| God of Restraint and Revenge	| played by Lisa in campaign 2	 | +3 damage with natural weapons  |
 | Michael	| God of War (The Priest)	| played by Ryan in campaign 2	 | +3 healing with SU abilities    |
 | Soren		| God of Justice		| played by Robby in campaign 3	 | Parent is Gabriel               |
-
-
 | DÆMON:	|                               |                                |                                 |
 | Titanious 	| God of Forge and Fire		| played by Jonny in campaign 2	 | --->All gear costs its construction price | 
 
