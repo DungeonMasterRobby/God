@@ -1,9 +1,7 @@
 # God Campaign
 
-This is for all datails on the good campaign. All Players that want to use this as a resource only look
-in to folder marked "player".
-If no folder exists, then there is no information designed for you to 
-view.
+These are the datails on the God campaign. All Players that want to use this as a resource only look
+in to folder marked "player" or the README.
 
 * rules
 
@@ -14,22 +12,18 @@ This campaign will be set at least 1000 years after the last god campaign. There
 
 
 	
-	GOD CLASS	GOD NAME			PLAYER				PARENT BONUS
-
-ARCHON:	
-Aquilon		God of life			played by Jake in campaign 1	+30 healing per healing ability
-Na'Nolian	
-	God of Knowledge				played by Rylee in campaign 1	+3 known wizard spells
-Adonia		
-	God of Restraint and Revenge			played by Lisa in campaign 2	+3 damage with natural weapons
-Michael	
-	God of War (The Priest)				played by Ryan in campaign 2	+3 healing with SU abilities
-Soren	
-	God of Justice					played by Robby in campaign 3	Parent is Gabriel
+| GOD CLASS	| GOD NAME			| PLAYER	| PARENT BONUS |
+| ------------- |:-----------------------------:|:------------------------------:|:-------------------------------:|
+| ARCHON:	|:-----------------------------:|:------------------------------:|:-------------------------------:|
+| Aquilon	|	God of life		| played by Jake in campaign 1	 | +30 healing per healing ability |
+| Na'Nolian	|	God of Knowledge	| played by Rylee in campaign 1	 | +3 known wizard spells          |
+| Adonia	| God of Restraint and Revenge	| played by Lisa in campaign 2	 | +3 damage with natural weapons  |
+| Michael	| God of War (The Priest)	| played by Ryan in campaign 2	 | +3 healing with SU abilities    |
+| Soren		| God of Justice		| played by Robby in campaign 3	 | Parent is Gabriel               |
 
 
 
-DÆMON:
+DÃ†MON:
 	Titanious 	God of Forge and Fire		played by Jonny in campaign 2	--->All gear costs its construction price
 
 	Althenia 	God of Subtlety			played by Sam in campaign 2	+10 to sneak, escape artist and slieght of hand
