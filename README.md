@@ -3,18 +3,12 @@
 These are the datails on the God campaign. All Players that want to use this as a resource only look
 in to folder marked "player" or the README.
 
-* rules
-
-Eldrazi campaign rules.
-
-
+# Inheritence rules.
 This campaign will be set at least 1000 years after the last god campaign. There is a new balanced god hierarchy.
 
-
-	
-| GOD CLASS	| GOD NAME			| PLAYER	| PARENT BONUS |
+| GOD CLASS	| GOD NAME			| PLAYER	                 | PARENT BONUS |
 | ------------- |:-----------------------------:|:------------------------------:|:-------------------------------:|
-| ARCHON:	|:-----------------------------:|:------------------------------:|:-------------------------------:|
+| ARCHON:	|                               |                                |                                 |
 | Aquilon	|	God of life		| played by Jake in campaign 1	 | +30 healing per healing ability |
 | Na'Nolian	|	God of Knowledge	| played by Rylee in campaign 1	 | +3 known wizard spells          |
 | Adonia	| God of Restraint and Revenge	| played by Lisa in campaign 2	 | +3 damage with natural weapons  |
@@ -22,9 +16,8 @@ This campaign will be set at least 1000 years after the last god campaign. There
 | Soren		| God of Justice		| played by Robby in campaign 3	 | Parent is Gabriel               |
 
 
-
-DÆMON:
-	Titanious 	God of Forge and Fire		played by Jonny in campaign 2	--->All gear costs its construction price
+| DÆMON:	|                               |                                |                                 |
+| Titanious 	| God of Forge and Fire		| played by Jonny in campaign 2	 | --->All gear costs its construction price | 
 
 	Althenia 	God of Subtlety			played by Sam in campaign 2	+10 to sneak, escape artist and slieght of hand
 	
