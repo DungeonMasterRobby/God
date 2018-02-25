@@ -11,6 +11,7 @@ in to folder marked "player" or the README.
 * Mythic Tier 5
 * Mythic ability "Divine Source" for free
 * All Pathfinder rules are allowed
+
 --3.5 rules must be cleared by me
 
 # Inheritence rules.
