@@ -12,7 +12,7 @@ in to folder marked "player" or the README.
 * Mythic ability "Divine Source" for free
 * All Pathfinder rules are allowed. 3.5 rules must be cleared by me
 
-# Inheritence rules.
+# Inheritence rules
 
 
    Each gods body is forged by a parent god. Each parent give a passive buff to the character. Each parent can only be chosen once so 
@@ -22,19 +22,19 @@ in to folder marked "player" or the README.
 
 | GOD CLASS	| GOD NAME			| PLAYER	                 | PARENT BONUS |
 | ------------- |:-----------------------------:|:------------------------------:|:-------------------------------:|
-| # ARCHON:	|                               |                                |                                 |
+| **ARCHON**    |                               |                                |                                 |
 | Aquilon	|	God of life		| played by Jake in campaign 1	 | +30 healing per healing ability |
 | Na'Nolian	|	God of Knowledge	| played by Rylee in campaign 1	 | +3 known wizard spells          |
-| Adonia	| God of Restraint and Revenge	| played by Lisa in campaign 2	 | +3 damage with natural weapons  |
+| Adonia	   | God of Restraint and Revenge	| played by Lisa in campaign 2	 | +3 damage with natural weapons  |
 | Michael	| God of War (The Priest)	| played by Ryan in campaign 2	 | +3 healing with SU abilities    |
 | Soren		| God of Justice		| played by Robby in campaign 3	 | Parent is Gabriel               |
-| # DÆMON:	|                               |                                |                                 |
-| Titanious 	| God of Forge and Fire		| played by Jonny in campaign 2	 | --->All gear costs its construction price | 
+| **DÆMON**	|                               |                                |                                 |
+| Titanious | God of Forge and Fire		| played by Jonny in campaign 2	 | --->All gear costs its construction price | 
 | Althenia 	| God of Subtlety		| played by Sam in campaign 2	 | +10 to sneak, escape artist and slieght of hand |
 | Zenobia	| God of Love and Fertility	| played by Ashley in campaign 2 | +15 to any attempt to seduce or impregnate |
 | Gabriel	| God of War (The Soldier)	| played by Jonny in campaign 2	 | --->+3 to attack                |
 | Korangar	| God of Giants			| played by jonny in campaign 3	 | Parent is Titanious             |
-| # VOID:	        |                               |                                |                                 |
+| **VOID**  |                               |                                |                                 |
 | Malcom	|	The Lone Wonderer	| played by Micheal in campaign 2 | proficiency with all guns (including future ones) |
 | Vynrath	| The God of Death (The Judge)	| played by JP in campaign 1	 | --->constant 10% concelment     |
 | Octavio	| The God of Death (The Gatekeeper) | played by JP in campaign 2 |	fast healing 3             |
