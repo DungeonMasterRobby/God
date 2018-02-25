@@ -41,7 +41,7 @@ so have fun.
 | Korangar	| God of Giants			| played by jonny in campaign 3	 | Parent is Titanious             |
 | **VOID**  |                               |                                |                                 |
 | Malcom	|	The Lone Wonderer	| played by Micheal in campaign 2 | proficiency with all guns (including future ones) |
-| Vynrath	| The God of Death (The Judge)	| played by JP in campaign 1	 | --->constant 10% concelment     |
+| Vynrath	| The God of Death (The Judge)	| played by JP in campaign 1	 | constant 10% concelment     |
 | Octavio	| The God of Death (The Gatekeeper) | played by JP in campaign 2 |	fast healing 3             |
 | Unknown       |The God of Death (The Reaper)	| played by JP in campaign 3     | Parent is Vynrath               |
 
